@@ -1,0 +1,49 @@
+Algoritmo
+
+Var
+caracter : nome
+caracter : endereço
+caracter : cidade
+inteiro : cpf
+inteiro : rg
+inteiro : idade
+caracter : nome do pai
+caracter : nome da mae
+real : peso
+real : renda bruta
+
+Atribuicao
+nome <- "Mateus Campos"
+endereco <- rua campos sales, 123
+cidade <- caruaru
+cpf <- 12345678900
+rg <- 1234566
+idade <- 25
+nome do pai <- "marco junior campos"
+nome da mae <- "maria betania campos"
+peso <- 75
+renda bruta <- 2525.60
+
+comandos saída e entrada
+escreva ("Digite seu nome completo")
+leia (nome)
+escreva ("Digite seu endereco")
+leia (endereco)
+escreva ("Digite sua cidade")
+leia (cidade)
+escreva ("Digite seu cpf")
+leia (cpf)
+escreva ("Digite seu rg")
+leia (rg)
+escreva ("Digite sua idade")
+leia (idade)
+escreva ("Digite o nome de seu pai")
+leia (nome do pai)
+escreva ("Digite o nome de sua mae")
+leia (nome da mae)
+escreva ("Digite seu peso")
+leia (peso)
+escreva ("Digite sua renda bruta")
+leia (renda bruta)
+
+
